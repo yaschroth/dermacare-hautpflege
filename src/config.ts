@@ -8,7 +8,7 @@ export const config = {
   business: {
     name: "dermacare",
     tagline: "Medizinische Hautpflege in Heilbronn",
-    description: "Gezielte medizinische Hautpflege für Ihre Haut. Durch individuelle Diagnose und hochwertige Produkte von THALGO, La Mer und L'OCCITANE kann die Haut wieder regeneriert und geschützt werden.",
+    description: "Durch gezielte medizinische Hautpflege wie Microneedling, Microdermabrasion, Mesoporation und hochwertige kosmetische Pflegebehandlung kann die Haut wieder regeneriert und geschützt werden.",
     foundingYear: 2005,
     yearsExperience: 20,
     satisfiedClients: "3.000+",
@@ -70,9 +70,9 @@ export const config = {
     fullName: "Silke Staudinger",
     image: "/beauty/frau.jpg",
     bio: [
-      "Als Inhaberin von dermacare widme ich mich seit über 20 Jahren der medizinischen Hautpflege. Mein Fokus liegt auf gezielten Behandlungen, die Ihre Haut nachhaltig regenerieren und schützen.",
-      "In meinem Studio am Berliner Platz, direkt am Theater, biete ich Ihnen ein umfassendes Spektrum an medizinischen und kosmetischen Behandlungen. Von Microneedling über Microdermabrasion bis hin zu luxuriösen THALGO-Behandlungen.",
-      "Ich arbeite ausschließlich mit hochwertigen Produkten von THALGO, La Mer und L'OCCITANE. Alle Produkte sind nicht komedogen, frei von Mineralöl und verzichten auf Tierversuche.",
+      "Unsere Behandlungen werden nach einer eingehenden Diagnose genau auf Ihren Hauttyp abgestimmt. So kann die Haut wieder regeneriert und geschützt werden.",
+      "Für die Pflege Ihrer Haut verwenden wir ausschließlich hochwertige Produkte, wie zum Beispiel THALGO, La Mer oder L'OCCITANE.",
+      "Unsere Produktlinien mit hochwirksamen Peelings, Pflanzenstoffen und Masken sind nicht komedogen, ohne Mineralöl, irritierende Farb- oder Duftstoffe. Die Produkte verzichten auf Tierversuche.",
     ],
     certifications: [
       { label: "Medizinische Kosmetik", icon: "shield" },
@@ -263,8 +263,8 @@ export const config = {
   // HYGIENE SECTION
   // ============================================
   hygiene: {
-    headline: "Medizinische Qualität",
-    description: "Ihre Hautgesundheit steht bei uns an erster Stelle. Alle Behandlungen werden unter strengsten medizinischen Standards durchgeführt.",
+    headline: "Qualität & Philosophie",
+    description: "Unsere Produktlinien mit hochwirksamen Peelings, Pflanzenstoffen und Masken sind nicht komedogen, ohne Mineralöl, irritierende Farb- oder Duftstoffe. Die Produkte verzichten auf Tierversuche.",
     features: [
       {
         icon: "shield",

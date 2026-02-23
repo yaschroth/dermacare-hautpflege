@@ -205,7 +205,7 @@ const Hero = () => {
           transition={{ delay: 0.7 }}
           className="text-white font-serif text-5xl md:text-7xl font-extralight leading-[1.1] mb-6"
         >
-          Gezielte Hautpflege, <br /> <span className="italic">die wirkt.</span>
+          Regenerieren. <br /> <span className="italic">Schützen.</span>
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -213,7 +213,7 @@ const Hero = () => {
           transition={{ delay: 0.9 }}
           className="text-white/80 text-lg md:text-xl max-w-2xl mx-auto mb-10 font-light"
         >
-          Über {config.business.yearsExperience} Jahre Erfahrung in medizinischer Hautpflege. Premium Produkte von THALGO, La Mer und L'OCCITANE.
+          Durch gezielte medizinische Hautpflege kann die Haut wieder regeneriert und geschützt werden. Behandlungen genau auf Ihren Hauttyp abgestimmt.
         </motion.p>
         <motion.div
           initial={{ opacity: 0 }}
